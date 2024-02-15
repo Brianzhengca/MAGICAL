@@ -118,5 +118,7 @@ Similar to device symmetry constraints, we consider symmetry net pairs and self-
 
 **Self-symmetry net**: A single net that is reflection symmetric with itself respect to a symmetry axis.
 
+**Correct Python Installation** /usr/local/bin/python3
+
 # License #
 [BSD 3-Clause](https://github.com/magical-eda/MAGICAL/blob/master/LICENSE)
